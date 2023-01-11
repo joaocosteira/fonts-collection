@@ -1,7 +1,9 @@
-# Fonts Collection
+# Font Collection
 
-Extremely self explanatory: A list of fonts.
+Extremely self explanatory: A list of fonts, reading material and resources.
 
+## All Fonts
+- [Latin Modern Roman](https://www.fontsquirrel.com/fonts/latin-modern-roman)
 - [EB Garamond](https://fonts.google.com/specimen/EB+Garamond)
 - [Source Serif](https://github.com/adobe-fonts/source-serif/releases)
     * [Example in use](http://adobe-fonts.github.io/source-serif/)
@@ -10,6 +12,7 @@ Extremely self explanatory: A list of fonts.
 - [IBM Plex Serif](https://github.com/IBM/plex/releases)
 - [Fira Sans](https://bboxtype.com/typefaces/FiraSans/#!layout=specimen)
 - [Literata Font](https://www.type-together.com/literata-font)
+    * Old-Style font commissioned by Google for their Google Books reading app
 - [Alegreya HT](https://www.huertatipografica.com/en/fonts/alegreya-ht-pro)
 - [Alegreya Sans](https://www.huertatipografica.com/en/fonts/alegreya-sans-ht)
 - [Andada HT](https://www.huertatipografica.com/en/fonts/andada-ht-pro)
@@ -22,6 +25,12 @@ Extremely self explanatory: A list of fonts.
 - [Andika](https://software.sil.org/andika/download/)
 - [Clear Sans](https://github.com/intel/clear-sans)
 - [Crimson Pro](https://fonts.google.com/specimen/Crimson+Pro)
+- [Amasis](https://www.fonts.com/font/monotype/amasis)
+    * a traditional slab-serif font designed by Monotype (pre installed on kobos)
+- [Bitter](https://fonts.google.com/specimen/Bitter)
+    * Slab-serif font made for screen readers
+
+
 
 
 ## Resources
@@ -30,6 +39,8 @@ Extremely self explanatory: A list of fonts.
 - [Font Spring](https://www.fontspring.com/)
 - [1001 Fonts](https://www.1001fonts.com/)
 - [Font Space](https://www.fontspace.com/)
+- [fonts dot com](https://www.fonts.com)
+- [Microsoft Font Library](https://learn.microsoft.com/en-us/typography/font-list/)
 - [Font Forge](https://fontforge.org/en-US/): A free and open source font editor.
 
 
